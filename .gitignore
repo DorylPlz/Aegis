@@ -14,3 +14,5 @@ application/config/database.php
 assets/images/gallery/*
 assets/images/mission/*
 assets/images/profile/*
+
+assets/gallery/Nueva carpeta/*
